@@ -10,7 +10,7 @@ All data is scraped via BeautifulSoup from `https://static.bc-edx.com/data/web/m
 
 ## Part 2: "Scrape and Analyze Mars Weather Data"
 
-Code for this (mostly) resolved challenge can be found in `code/part2_mars_weather.ipynb`
+Code for this (mostly) resolved challenge can be found in `code/part2_mars_weather.ipynb`. 
 I was not able to resolve "How many terrestrial days exist in a Martian year" (10pts)
 All Data is scraped via BautifulSoup from `https://static.bc-edx.com/data/web/mars_facts/temperature.html`
 
